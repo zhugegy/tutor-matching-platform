@@ -26,6 +26,7 @@ let g_strAdminUserID = "5dc1279274be4f4eb7e2bd9f"; //this is for event generatio
  */
 Operation = async function (){
     // Operation begins here...
+    // 20200710 successfully ran this script once again, which took a long period of time.
 
     // First, wait a few seconds for the database connection...
     console.log("Count down 10 seconds, waiting for database connection...");
