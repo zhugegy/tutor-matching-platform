@@ -6,6 +6,11 @@ A platform where students choose their desired tutors.
 
 Live deployment: [Amazon Web Services](http://ec2-54-252-170-213.ap-southeast-2.compute.amazonaws.com:3001/)
 
+Accounts for testing (the password is always "1"):
+- students: Lynsey6887@bot.com; Beth2756@bot.com; Winonah274@bot.com; Liza5648@bot.com; Gwenora7595@bot.com;
+- tutor: Eolande4582@bot.com; Elaine8298@bot.com; Saundra8111@bot.com; Annemarie9254@bot.com;
+- admin: Gipsy4404@bot.com;
+
 Features:
 - Developped with MERN framework
 - User group is the students of a university
@@ -23,6 +28,11 @@ Features:
 一个帮助学生选择心仪的个人辅导老师的平台。
 
 在线部署：[Amazon Web Services](http://ec2-54-252-170-213.ap-southeast-2.compute.amazonaws.com:3001/)
+
+测试用账号 (密码一律是“1”):
+- 学生: Lynsey6887@bot.com; Beth2756@bot.com; Winonah274@bot.com; Liza5648@bot.com; Gwenora7595@bot.com;
+- 个人辅导老师: Eolande4582@bot.com; Elaine8298@bot.com; Saundra8111@bot.com; Annemarie9254@bot.com;
+- 管理员: Gipsy4404@bot.com;
 
 功能：
 - 使用MERN框架开发
