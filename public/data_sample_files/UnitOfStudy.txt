@@ -1,0 +1,487 @@
+AGRI2001 Plant Management in Agroecosystems
+AGRI3888 Sustainable Plant Production
+AGRO4003 Crop and Pasture Agronomy
+AGRO4004 Sustainable Farming Systems
+ENSC2001 Environmental Monitoring
+ENTO4004 Insect Taxonomy and Systematics
+ENVI1003 Global Challenges: Food, Water, Climate
+ENVI3111 Environmental Law and Ethics
+ENVI3114 Energy and the Environment
+ENVI3911 Environmental Law and Ethics (Advanced)
+ENVX1002 Introduction to Statistical Methods
+ENVX2001 Applied Statistical Methods
+ENVX3001 Environmental GIS
+ENVX3002 Statistics in the Natural Sciences
+ENVX3003 Hydrological Monitoring and Modelling
+FOOD2000 Principles of Food Science
+FOOD3000 Food Quality and Safety
+FOOD3001 Food Processing and Value Adding
+FOOD3002 Chemistry and Biochemistry of Foods
+FOOD3888 Food Product Development
+GENE4012 Plant Breeding
+HORT3005 Production Horticulture
+HORT4005 Research and Practice in Hort Science
+SOIL2005 Soil and Water: Earth's life support systems
+SOIL3009 Contemporary Field and Lab Soil Science
+SOIL3010 The Soil at Work
+SOIL3888 Protecting the Soil Resource
+AMST1001 Global America
+AMST1202 Hashtag America: Media, Technology, Industry
+AMST2606 Stand Up USA: American Comedy and Humour
+AMST2701 American Dreams
+AMST3601 American Perspectives
+USSC1201 America and Australia: the issues compared
+USSC1602 US Politics: Presidents, Elections and Laws
+USSC2601 US in the World
+USSC3601 Public Opinion and Voting in the US
+USSC3603 Dissent and Protest in America
+ENGL1016 Imagining the Black Atlantic
+ENGL3706 African American Literature
+GOVT2225 International Security in 21st Century
+GOVT3655 Latin American Politics
+GOVT3672 American Politics and Foreign Policy
+HSTY1006 History Workshop: Americas
+HSTY1023 Emerging Giant: The Making of America
+HSTY2611 America in World Affairs: A History
+HSTY2656 A House Divided: The American Civil War
+HSTY2659 American Slavery
+HSTY2666 American Revolutions
+HSTY2712 American History from Lincoln to Trump
+HSTY3709 The American City
+HSTY3716 Obesity: History and Politics in the USA
+MUSC3640 Rhythms and Sounds of Latin America
+BADP1001 Empirical Thinking
+BADP2001 Algorithmic Architecture
+BADP2002 City Form and Development
+BADP2003 Light and Sound
+BADP2004 Building Technologies
+BADP2005 City Design and Urban Ecology
+BADP3001 Designing for Environmental Quality
+BADP3002 Property and the Built Environment
+BADP3003 City Design and Urban Ecology
+BAEN1001 Design in Architecture
+BAEN2001 Design Integration Lab: Materials
+BAEN2002 Design Integration Lab: Energy
+BAEN3001 Design Integration Lab: Urban
+BAEN3002 Design Integration Lab: Capstone
+BDES1011 Architectural History/Theory 1
+BDES1012 Architectural Communications 1
+BDES1023 Architectural Technologies 1
+BDES1026 Architecture Studio 1A
+BDES1027 Architecture Studio 1B
+BDES2013 Architectural Technologies 2
+BDES2024 Art Processes
+BDES2026 Architecture Studio 2A
+BDES2027 Architecture Studio 2B
+BDES3011 Architectural History/Theory 3
+BDES3023 Architectural Technologies 3
+BDES3026 Architecture Studio 3A
+BDES3027 Architecture Studio 3B
+DAAE1001 Living Cities
+DAAE2001 Australian Architecture
+DAAE2002 Architecture, Place and Society
+DAAE2005 Designing with Colour
+DAAE2008 Innovative Building Structures
+DAAE2011 Intro to Visual Communication Design
+DAAE3001 Sustainable Architectural Practice
+DECO1006 Design Thinking
+DECO1012 Design Programming
+DECO1013 Physical Computing
+DECO1014 Digital Media Production
+DECO2012 Sound Design and Sonification
+DECO2014 User Experience Design Studio
+DECO2015 Design for Innovation
+DECO2016 Design Thinking
+DECO2101 Visual Communication
+DECO2102 Web Design and Technologies
+DECO2103 Architectural Modelling and Prototyping
+DECO2200 Interaction Design Studio
+DECO3009 Designing for Virtual Reality
+DECO3100 Information Visualisation Design Studio
+DECO3101 Innovation Design Studio
+DESA1004 Designing with Surfaces and Light
+DESA3004 Architecture and Diagrams
+DESA3006 Architectural Investigations: Models
+DESA3008 Architectural Models: Theory and Practice
+DESA3009 Advanced Fabrication
+DESA3010 Code to Production
+DESA3011 Introduction to Building Construction
+DESN1000 Principles of Design
+DESN1001 Design Theory and Culture
+DESN3000 Design Thinking for Health and Medicine
+ASNS1601 Introduction to Asian Cultures
+ASNS1602 Asia: Past, Present, Future
+ASNS2002 Intro to Tibetan Language and Culture 2
+ASNS2011 A Survey of Buddhism
+ASNS2613 Chinese Thought
+ASNS2618 Remaking Chinese Society, 1949-Present
+ASNS2625 Buddhism in Modern Asia
+ASNS2634 Samurai and Merchants: Tokugawa Japan
+ASNS2642 Modern Korea
+ASNS2661 History of Modern Indonesia
+ASNS2665 Understanding Southeast Asia
+ASNS3001 Youth and Language in Southeast Asia
+ASNS3111 The Material Culture of Asia
+ASNS3670 Mass Media in East Asia
+ASNS3690 Approaches to Research in Asian Studies
+ARHT2645 Arts in Imperial China
+CHNS1600 The Chinese Language, Present and Past
+CHNS1601 Understanding Contemporary China
+CHNS2003 Gender and Women in Chinese Literature
+CHNS2004 Introduction to Chinese Literature
+CHNS2011 Religion and Martial Arts Fiction
+CHNS2613 Communication and Social Change in China
+CHNS2614 Understanding News About China
+CHNS2641 Reading Chinese Philosophy
+CHNS3111 Global Chinese Literatures
+CHNS3607 Chinese Buddhist Texts
+CHNS3621 Case Studies in Chinese Translation
+CHNS3633 Stories for a Modern China
+CHNS3639 Chinese Cinema
+CHNS3640 Chinese History:Fact and Fiction
+CHNS3645 Classical Chinese Prose
+CHNS3646 Classical Chinese Fiction
+CHNS3647 Classical Chinese Poetry
+CHNS3651 Chinese Drama and Theatre
+CHNS3680 Multilingualism in the Sinosphere
+ECOS2025 East Asian Economies
+GOVT2119 Southeast Asia: Dilemmas of Development
+GOVT3651 Politics of China
+HSTY2681 Colonialism in Modern Asia
+HSTY2709 The Chinese World
+HSTY3700 The East is Red: China 1949-1997
+INMS3607 Indonesia: The Challenges of Development
+INMS3608 Indeonesia in Search of Modernity
+JPNS2672 Japanese Media and Popular Culture
+JPNS3002 Historical Texts and Cultures of Japan
+JPNS3650 Japanese Language and Identity
+JPNS3673 Japanese Society
+KRNS2672 Issues in Korean Language
+KRNS3675 Contemporary Korean Society and Culture
+ANTH2605 Aboriginal Australia: Cultural Journeys
+ANTH3618 Indigenous Australians Today
+ARCO2001 Ancient Australia: Diverse adaptations
+ARCO2002 Ancient Australia: shape and connection
+ARCO3002 Australian forager economies
+ARCO3401 Australian Lithic Technology (Project 1)
+ARHT2632 Modern Australian Art and Cinema
+BIOL2032 Australian Wildlife Biology
+CLAW3201 Australian Taxation System
+DAAE2001 Australian Architecture
+ECON1005 The Australian Economy
+EDUF3030 Australian Schooling Systems
+EDUF3034 Australian Theatre, Film and Learning
+EDUH4052 Learning in Outdoor Education
+EDUH4058 Sport and Learning in Australian Culture
+ENGL1019 Jane Austen, Then and Now
+ENGL2669 Australian Stage and Screen
+ENGL3703 Writing Australian Nature
+GOVT2111 Human Rights and Australian Politics
+GOVT2120 New Zealand and Pacific Politics
+GOVT3652 Environmental Politics in Australia
+GOVT3653 The Australian Political Party System
+GOVT3671 Australian Foreign and Security Policy
+HSTY2631 Sin City? A History of Sydney
+HSTY3708 Australia: Environmental History
+HSTY3712 Australia's World: Diplomacy and Statecraft
+HSTY3715 Histories of Place: Australia and Beyond
+INDG1001 Introduction to Indigenous Cultures
+INDG1002 Introduction to Indigenous History
+INDG2005 Learning an Australian Language
+INDG3003 Race, Racism and Indigenous Australia
+INDG3005 Re-awakening Australian Languages
+JCTC3002 The Holocaust: History and Aftermath
+MUSC2672 Australian Popular Music
+RLST2640 Contemporary Australian Religion
+SCPL2601 Australian Social Policy
+USSC1201 America and Australia: the issues compared
+BIOL1006 Life and Evolution
+BIOL1007 From Molecules to Ecosystems
+BIOL1008 Human Biology
+BIOL2021 Zoology
+BIOL2022 Biology Experimental Design and Analysis
+BIOL2024 Ecology and Conservation
+BIOL2029 Cells
+BIOL2030 Botany
+BIOL2031 Plants and Environment
+BIOL2032 Australian Wildlife Biology
+BIOL2033 Entomology
+BIOL3004 Terrestrial Plant Ecology
+BIOL3005 Evolutionary Biology
+BIOL3007 Ecology
+BIOL3013 Marine Biology
+BIOL3018 Gene Technology and Genomics
+BIOL3020 Applied Plant Function
+BIOL3026 Developmental Genetics
+BIOL3029 Molecular Plant Biology
+BIOL3033 Applied Entomology
+BIOL3034 Evolution of the Australian Biota
+BIOL3045 Animal Ecological Physiology
+BIOL3046 Animal Behaviour
+MICR2031 Microbiology
+MICR3011 Microbes in Infection
+MICR3032 Molecular Microbiology Concepts
+MICR3042 Molecular Microbiology Research Skills
+MIMI2002 Microbes, Infection and Immunity
+BCMB2001 Biochemistry and Molecular Biology
+BCMB2002 Proteins in Cells
+BCMB3001 Gene and Genome Regulation
+BCMB3002 Protein Function and Engineering
+BCMB3003 Biochemistry of Human Disease
+BCMB3004 Beyond The Genome
+GEGE2001 Genetics and Genomics
+QBIO2001 Molecular Systems Biology
+BMET1960 Biomedical Engineering 1A
+BMET1961 Biomedical Engineering 1B
+BMET2901 Anatomy and Physiology for Engineers
+BMET2960 Biomedical Engineering 2
+BMET3660 Biomanufacturing
+BMET3921 Biomedical Design and Technology
+BMET4961 Biomechanics and Biomaterials
+BMET4971 Tissue Engineering
+BMET4981 Applied Biomedical Engineering
+BMET4990 Biomedical Product Development
+AMME4710 Computer Vision and Image Processing
+BCMB2001 Biochemistry and Molecular Biology
+BCMB2002 Proteins in Cells
+BCMB3001 Gene and Genome Regulation
+BCMB3002 Protein Function and Engineering
+BCMB3003 Biochemistry of Human Disease
+BCMB3004 Beyond The Genome
+ELEC3802 Fundamentals of Biomedical Engineering
+ELEC3803 Bioelectronics
+ENGG1000 History and Philosophy of Engineering
+GEGE2001 Genetics and Genomics
+MCHM3001 From Molecules to Therapeutics
+MICR2031 Microbiology
+MIMI2002 Microbes, Infection and Immunity
+NANO2002 Introduction to Nanoscience
+QBIO2001 Molecular Systems Biology
+ACCT1006 Accounting and Financial Management
+ACCT2011 Financial Accounting A
+ACCT2019 Management Accounting
+ACCT3011 Financial Accounting B
+ACCT3013 Financial Statement Analysis
+ACCT3015 Data Analytics for Accounting
+ACCT3016 Sustainability Accounting
+ACCT3020 Advanced Issues in Management Accounting
+ACCT3031 International Corporate Governance
+BANK2011 Banking and the Financial System
+BANK3011 Bank Financial Management
+BANK3012 Bank Supervision
+BANK3013 International Banking Management
+BANK3014 Private and Investment Banking
+BUSS1000 Future of Business
+BUSS1020 Quantitative Business Analysis
+BUSS1030 Accounting, Business and Society
+BUSS1040 Economics for Business Decision Making
+CLAW1001 Foundations of Business Law
+CLAW1003 Company Law
+CLAW2202 Business Failure and Restructuring
+CLAW2205 Competition and Consumer Law
+CLAW2207 Business, Ethics and the Law
+CLAW2208 Business Regulation, Risk and Compliance
+CLAW2209 Intellectual Property for Business
+CLAW2211 Commerical Practice in China
+CLAW2212 Franchising
+CLAW2213 Legal Regulation of Int'l Business
+CLAW2214 Business Law for Accountants
+CLAW3201 Australian Taxation System
+CLAW3202 Tax Strategies for Business
+CLAW3206 Regulation of Mergers and Acquisitions
+CLAW3207 Legal Regulation of Employment
+CLAW3209 The Environment, Law and Business
+CLAW3210 Banking and Financial Law
+FINC2011 Corporate Finance I
+FINC2012 Corporate Finance II
+FINC3011 International Financial Management
+FINC3012 Derivative Securities
+FINC3013 Mergers and Acquisitions
+FINC3014 Trading and Dealing in Security Markets
+FINC3015 Financial Valuation: Case Study Approach
+FINC3017 Investments and Portfolio Management
+FINC3019 Fixed Income Securities
+FINC3020 Financial Risk Management
+FINC3023 Behavioural Finance
+IBUS1101 Global Business
+IBUS1102 Cross-Cultural Management
+IBUS2020 Chinese Economy and Business
+IBUS2101 International Business Strategy
+IBUS2103 International Risk Management
+IBUS2104 Entrepreneurship and Innovation
+IBUS3101 International Business Alliances
+IBUS3104 Ethical International Business Decisions
+IBUS3108 Social Entrepreneurship
+IBUS3109 Strategy and Emerging Markets
+INFS1000 Digital Business Innovation
+INFS1020 Digital Work Environments
+INFS2010 People, Information and Knowledge
+INFS2020 Business Process Modelling & Improvement
+INFS2030 Digital Business Management
+INFS2040 Project Management Foundations
+INFS2050 Data Governance and Technology Assurance
+INFS3040 Enterprise Systems & Integrated Business
+INFS3050 Business Intelligence for Managers
+INFS3110 Accounting Information Systems
+ITLS2000 Managing Food and Beverage Supply Chains
+MKTG1001 Marketing Principles
+MKTG1002 Marketing Research
+MKTG2112 Consumer Behaviour
+MKTG2113 Marketing Insights
+MKTG3110 Digital Marketing
+MKTG3112 Marketing Communications
+MKTG3114 New Products Marketing
+MKTG3116 International Marketing
+MKTG3118 Marketing Strategy and Planning
+MKTG3120 Building and Managing Brands
+MKTG3121 Advertising: Creative Principles
+MKTG3123 Strategic Social Marketing
+QBUS1040 Foundations of Business Analytics
+QBUS2310 Management Science
+QBUS2810 Statistical Modelling for Business
+QBUS2820 Predictive Analytics
+QBUS3310 Advanced Management Science
+QBUS3320 Supply Chain Management
+QBUS3330 Methods of Decision Analysis
+QBUS3340 Operations Management
+QBUS3350 Project Planning and Management
+QBUS3820 Machine Learning and Data Mining in Business
+QBUS3830 Advanced Analytics
+QBUS3850 Time Series and Forecasting
+WORK1003 Foundations of Work and Employment
+WORK1004 Foundations of Management
+WORK2203 IR Policies and Processes
+WORK2205 HR Strategies and Processes
+WORK2210 Strategic Management
+WORK2218 Managing Organisational Behaviour
+WORK3201 International Human Resource Management
+WORK3202 Leadership
+WORK3203 Managing Diversity at Work
+WORK3204 Managing Organisational Sustainability
+WORK3205 Organisational Communication
+WORK3206 Regulation at Work
+WORK3208 Globalisation, Work and Employment
+ACCT5001 Accounting Principles
+ACCT5002 Managerial Accounting & Decision Making
+ACCT6001 Intermediate Financial Reporting
+ACCT6002 International Accounting
+ACCT6003 Fundamental Analysis for Equity Investment
+ACCT6006 Advanced Managerial Accounting
+ACCT6007 Contemporary Issues in Auditing
+ACCT6010 Advanced Financial Reporting
+ACCT6014 Designing Accounting Systems
+ACCT6015 Extended Performance Reporting
+ACCT6019 Analytics for Accounting
+ACCT6120 Corporate Governance and Accountability
+BANK6002 Bank Management
+BANK6003 Global Supervision of Bank Risks
+BANK6005 International Banking
+BUSS5001 Firms, Markets and Business Management
+BUSS5020 Business Insights
+BUSS6002 Data Science in Business
+CLAW5001 Legal Environment of Business
+CLAW6002 Corporate Structures in Practice
+CLAW6026 Taxation Law and Practice
+CLAW6030 China's Legal Environment for Business
+CLAW6031 International Financial Crime
+CLAW6032 Regulating Innovation and Distribution
+CLAW6033 International Business Tax Strategy
+FINC5001 Capital Markets and Corporate Finance
+FINC6000 Quantitative Finance and Derivatives
+FINC6001 Intermediate Corporate Finance
+FINC6005 Advanced Asset Pricing
+FINC6009 Portfolio Theory and its Applications
+FINC6010 Derivative Securities
+FINC6013 International Business Finance
+FINC6014 Fixed Income Securities
+FINC6015 Trading in Securities Markets
+FINC6017 Mergers and Acquisitions
+FINC6021 Corporate Valuation
+FINC6023 Financial Risk Management
+IBUS5002 Strategy, Innovation & Entrepreneurship
+IBUS5003 Global Business
+IBUS6001 International Business Strategy
+IBUS6002 Cross-Cultural Management
+IBUS6003 Managing International Risk
+IBUS6004 International Business Alliances
+IBUS6005 Ethical International Business Decisions
+IBUS6006 Comparative International Management
+IBUS6008 Export Management
+IBUS6011 New Business Opportunities and Startups
+IBUS6016 Social Entrepreneurship
+IBUS6018 Business Negotiations
+IBUS6019 Strategy and Emerging Markets
+IBUS6020 Enterprise Management in China
+IBUS6022 Business and Management in India
+INFS5000 Accounting Information Systems
+INFS5001 Project Management
+INFS5002 Digital Business Foundations
+INFS6004 Business Transformation Projects
+INFS6012 Enterprise Systems Management
+INFS6015 Business Process Management
+INFS6016 Technology Enabled Business Innovation
+INFS6018 Managing Business Intelligence
+INFS6023 Data Visualisation
+INFS6030 Project Management in Practice
+INFS6032 Agile Project Management
+INFS6066 Gadgets, Gods and Godzilla
+ITLS5000 Foundations of Supply Chain Management
+ITLS5100 Transport and Infrastructure Foundations
+ITLS5200 Quantitative Logistics & Transport
+ITLS6002 Supply Chain Planning and Design
+ITLS6003 Contemporary Procurement
+ITLS6008 Production and Operations Management
+ITLS6101 Global Freight Logistics Management
+ITLS6102 Strategic Transport Planning
+ITLS6103 Sustainable Transport Policy
+ITLS6107 Applied GIES and Spacial Data Analytics
+ITLS6300 Maritime Management & Logistics
+ITLS6400 Airline Strategy and Supply Chains
+ITLS6500 Decision Making on Mega Projects
+MKTG5001 Marketing Principles
+MKTG6001 Marketing Research Concepts
+MKTG6003 Marketing Strategy
+MKTG6004 New Product Development
+MKTG6005 Marketing Communications
+MKTG6006 Creative Communications in Marketing
+MKTG6007 Consumer Behaviour
+MKTG6013 International and Global Marketing
+MKTG6015 Digital and Social Media Marketing
+MKTG6016 Brand Management
+MKTG6018 Customer Analytics and Relationship Management
+MKTG6020 Business Marketing
+MKTG6104 The Psychology of Business Decisions
+QBUS5001 Quantitative Methods for Business
+QBUS5002 Quantitative Methods for Accounting
+QBUS6310 Business Operations Analysis
+QBUS6320 Management Decision Making
+QBUS6810 Statistical Learning and Data Mining
+QBUS6820 Business Risk Management
+QBUS6830 Financial Time Series and Forecasting
+QBUS6840 Predictive Analytics
+QBUS6850 Machine Learning for Business
+QBUS6860 Visual Data Analytics
+WORK5002 People, Work and Employment
+WORK5003 Management and Organisations
+WORK6001 Organisational Analysis and Behaviour
+WORK6002 Strategic Management
+WORK6012 Industrial Relations Policy
+WORK6017 Human Resource Strategies
+WORK6018 International Industrial Relations
+WORK6026 Organisational Change and Development
+WORK6030 Performance and Rewards
+WORK6034 Talent Management
+WORK6040 Emerging Challenges in Work and IR
+WORK6100 Disruptions and Innovations in HRM
+WORK6108 International Dimensions of HRM
+WORK6111 Management Consulting
+WORK6115 Managing Diversity at Work
+WORK6116 Employment and the Law
+WORK6118 Managing Communication in Organisations
+WORK6130 Leadership in Organisations
+COMP5347 Web Application Development
+ELEC5618 Software Quality Engineering
+INFO5301 Information Security Management
+ISYS5050 Knowledge Management Systems
+ISYS5070 Change Management in IT
+INFO5060 Data Analytics and Business Intelligence

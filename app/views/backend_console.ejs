@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Backend console</title>
+
+    <link rel="stylesheet" href="css/backend-console.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
+    <script type="text/javascript" src="javascripts/backend_console.js"></script>
+</head>
+
+<body>
+
+<p>
+    Please input the command:
+    <br>
+    <small>
+        CRUD:
+    </small>
+</p>
+
+<input type="text" id="AddArticleFormTextInputArticleTitle" size="73"> &nbsp
+<input type="button" id="AddArticleFormButtonAdd" value="Add">
+
+<br><br>
+
+<textarea readonly rows="30" cols="87" id="AddArticleFormTextArea"></textarea>
+
+<br><br>
+
+<input type="button" id="AddArticleFormButtonGoBack" value="Back">
+<input type="button" id="AddArticleFormButtonDownloadLog" value="Download Your Log File">
+
+<!-- Hidden link-->
+<a download="article_insights_log.log" href="" id="AddArticleFormLinkDownloadLog"></a>
+
+</body>
+
+</html>

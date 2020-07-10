@@ -1,0 +1,19 @@
+.footer_top_wrapper{
+    padding: 0 0 0 0;
+}
+#bottom{
+    background-color: #F6C270;
+    height: 200px;
+}
+
+.footer_jumbo_wrapper{
+    padding-top: 2em;
+    padding-bottom: 1em;
+    margin-bottom: 0;
+}
+
+.about_us{
+    width: 70%;
+    padding-top: 20px;
+    margin: auto;
+}

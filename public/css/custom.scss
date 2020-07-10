@@ -1,0 +1,31 @@
+//pumpkin theme color
+$pumpkin:          #EC9B59 !default;
+$love:          #F4D8CD !default;
+$tree:          #9EB19E !default;
+$darkgreen:          #164444 !default;
+$wall:          #00202B !default;
+$orange:   #F6C270!default;
+
+$colors: () !default;
+// stylelint-disable-next-line scss/dollar-variable-default
+$colors: map-merge(
+                (
+                        "pumpkin":    $pumpkin,
+                        "love":       $love,
+                        "tree":       $tree,
+                        "darkgreen":       $darkgreen,
+                        "wall":       $wall,
+                        "orange":    $orange,
+
+                ),
+                $colors
+);
+
+$primary:       $orange !default;
+$secondary:     $love !default;
+$success:       $tree !default;
+$info:          $darkgreen !default;
+$dark:          $wall !default;
+$warning:       $pumpkin !default;
+$link-color:                              $dark !default;
+@import "~bootstrap/scss/bootstrap";
